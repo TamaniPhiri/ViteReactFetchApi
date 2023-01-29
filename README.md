@@ -1,1 +1,1 @@
-#a simple fetch functional component in react
+#a simple fetch functional component in Vite react
